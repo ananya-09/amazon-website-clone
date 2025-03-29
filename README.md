@@ -1,1 +1,2 @@
-# Amazon Website Clone Made by me
+# Amazon Website Clone
+# Created by me
